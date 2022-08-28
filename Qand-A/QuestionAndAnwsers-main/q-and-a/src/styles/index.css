@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.w-force{
+    min-width: 50vw ;
+    margin:0 auto;
+    margin-top: 10rem;
+    /* background-color: red; */
+    
+}
